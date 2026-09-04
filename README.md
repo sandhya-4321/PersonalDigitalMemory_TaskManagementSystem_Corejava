@@ -10,11 +10,11 @@ It helps users organize personal memories and manage daily tasks efficiently. Th
 
 ## 🎯 Objectives
 
-- 🗂️ Organize personal memories and daily tasks.
-- ⭐ Set task priorities and deadlines.
-- 📅 Track today's, upcoming, overdue, completed, and pending tasks.
-- 🔔 Provide reminders and smart task recommendations.
-- 📊 Monitor and improve productivity.
+- Organize personal memories and daily tasks.
+- Set task priorities and deadlines.
+- Track today's, upcoming, overdue, completed, and pending tasks.
+- Provide reminders and smart task recommendations.
+- Monitor and improve productivity.
 
 ---
 
