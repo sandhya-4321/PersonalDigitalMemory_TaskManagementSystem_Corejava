@@ -2,10 +2,12 @@ Personal Digital Memory and Task   Management System
 
 
 📌 Project Overview
+
 Personal Memory and Task Planner is a Core Java-based console application developed as a group project. It helps users organize personal memories and manage daily tasks efficiently. The application provides priorities, deadlines, reminders, recommendations, and productivity tracking in one place.
 
 
 🎯 Objectives
+
 •	Organize personal memories and daily tasks. 
 •	Set task priorities and deadlines. 
 •	Track today's, upcoming, overdue, completed, and pending tasks. 
@@ -14,6 +16,7 @@ Personal Memory and Task Planner is a Core Java-based console application develo
 
 
 ✨ Key Features
+
 •	User Registration and Login 
 •	Memory Management and Keyword Search 
 •	Task Creation and Management 
@@ -27,12 +30,14 @@ Personal Memory and Task Planner is a Core Java-based console application develo
 
 
 🛠️ Technologies Used
+
 •	Programming Language: Java 
 •	Application Type: Console-Based Application 
 •	Concepts: Core Java, OOP, Collections, Exception Handling, File Handling, Serialization, Date-Time API 
 
 
 💡 Core Java Concepts
+
 •	Classes & Objects – Task, MemoryEntry, User, ActivityLog 
 •	Encapsulation – Private variables with getters and setters 
 •	Inheritance – Custom exception classes 
@@ -45,6 +50,7 @@ Personal Memory and Task Planner is a Core Java-based console application develo
 
 
 📂 Project Structure
+
 📦 Personal Memory and Task Planner
 │
 ├── 📁 Entity
@@ -76,6 +82,7 @@ Personal Memory and Task Planner is a Core Java-based console application develo
 
 
 🔄 Application Flow
+
 🚀 Start Application
 ↓
 👤 Register / Login
@@ -100,6 +107,7 @@ Personal Memory and Task Planner is a Core Java-based console application develo
 
 
 🚀 Future Enhancements
+
 •	GUI Application – Develop a user-friendly graphical interface. 
 •	Database Integration – Store tasks and memories in MySQL or other databases. 
 •	Mobile Application – Provide access through Android or mobile devices. 
