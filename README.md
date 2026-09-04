@@ -1,12 +1,18 @@
 Personal Digital Memory and Task   Management System
+
+
 📌 Project Overview
 Personal Memory and Task Planner is a Core Java-based console application developed as a group project. It helps users organize personal memories and manage daily tasks efficiently. The application provides priorities, deadlines, reminders, recommendations, and productivity tracking in one place.
+
+
 🎯 Objectives
 •	Organize personal memories and daily tasks. 
 •	Set task priorities and deadlines. 
 •	Track today's, upcoming, overdue, completed, and pending tasks. 
 •	Provide reminders and smart task recommendations. 
 •	Monitor and improve productivity. 
+
+
 ✨ Key Features
 •	User Registration and Login 
 •	Memory Management and Keyword Search 
@@ -18,10 +24,14 @@ Personal Memory and Task Planner is a Core Java-based console application develo
 •	Productivity Score and Dashboard 
 •	Activity History 
 •	Data Storage using File Handling 
+
+
 🛠️ Technologies Used
 •	Programming Language: Java 
 •	Application Type: Console-Based Application 
 •	Concepts: Core Java, OOP, Collections, Exception Handling, File Handling, Serialization, Date-Time API 
+
+
 💡 Core Java Concepts
 •	Classes & Objects – Task, MemoryEntry, User, ActivityLog 
 •	Encapsulation – Private variables with getters and setters 
@@ -32,6 +42,8 @@ Personal Memory and Task Planner is a Core Java-based console application develo
 •	Exception Handling – Handling invalid inputs and errors 
 •	File Handling & Serialization – Saving and loading application data 
 •	Date-Time API – Managing task deadlines and dates 
+
+
 📂 Project Structure
 📦 Personal Memory and Task Planner
 │
@@ -61,6 +73,8 @@ Personal Memory and Task Planner is a Core Java-based console application develo
 │   └── Main.java
 │
 └── 📄 README.md
+
+
 🔄 Application Flow
 🚀 Start Application
 ↓
@@ -83,6 +97,7 @@ Personal Memory and Task Planner is a Core Java-based console application develo
 💾 Save Data
 ↓
 👋 Exit
+
 
 🚀 Future Enhancements
 •	GUI Application – Develop a user-friendly graphical interface. 
