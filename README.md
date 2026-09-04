@@ -1,4 +1,4 @@
-# 🧠 Personal Digital Memory and Task Management System
+# Personal Digital Memory and Task Management System
 
 ## 📌 Project Overview
 
@@ -20,16 +20,16 @@ It helps users organize personal memories and manage daily tasks efficiently. Th
 
 ## ✨ Key Features
 
-- 👤 User Registration and Login
-- 🧠 Memory Management and Keyword Search
-- 📝 Task Creation and Management
-- ⭐ Priority and Deadline Management
-- 📅 Today's, Upcoming, and Overdue Tasks
-- ✅ Task Completion Tracking
-- 🔔 Reminders and Smart Recommendations
-- 📊 Productivity Score and Dashboard
-- 📝 Activity History
-- 💾 Data Storage using File Handling
+- User Registration and Login
+- Memory Management and Keyword Search
+- Task Creation and Management
+- Priority and Deadline Management
+- Today's, Upcoming, and Overdue Tasks
+- Task Completion Tracking
+- Reminders and Smart Recommendations
+- Productivity Score and Dashboard
+- Activity History
+- Data Storage using File Handling
 
 ---
 
@@ -37,27 +37,27 @@ It helps users organize personal memories and manage daily tasks efficiently. Th
 
 | Category | Technology |
 |---|---|
-| 💻 Programming Language | Java |
-| 🖥️ Application Type | Console-Based Application |
-| 🧩 Programming Approach | Core Java & OOP |
-| 📚 Collections | ArrayList, HashMap |
-| ⚠️ Error Handling | Exception Handling |
-| 💾 Data Storage | File Handling & Serialization |
-| 📅 Date Management | Java Date-Time API |
+| Programming Language | Java |
+| Application Type | Console-Based Application |
+| Programming Approach | Core Java & OOP |
+| Collections | ArrayList, HashMap |
+| Error Handling | Exception Handling |
+| Data Storage | File Handling & Serialization |
+| Date Management | Java Date-Time API |
 
 ---
 
 ## 💡 Core Java Concepts
 
-- 🏗️ **Classes & Objects** – Used for `Task`, `MemoryEntry`, `User`, and `ActivityLog`.
-- 🔒 **Encapsulation** – Used private variables with getters and setters.
-- 🔗 **Inheritance** – Used in custom exception classes.
-- 🔄 **Polymorphism** – Used for common operations with different implementations.
-- 🎭 **Abstraction** – Used through service classes for business logic.
-- 📚 **Collections** – `ArrayList` and `HashMap` are used for data management.
-- ⚠️ **Exception Handling** – Used to handle invalid inputs and errors.
-- 💾 **File Handling & Serialization** – Used to save and load application data.
-- 📅 **Date-Time API** – Used to manage task deadlines and dates.
+- **Classes & Objects** – Used for `Task`, `MemoryEntry`, `User`, and `ActivityLog`.
+- **Encapsulation** – Used private variables with getters and setters.
+- **Inheritance** – Used in custom exception classes.
+- **Polymorphism** – Used for common operations with different implementations.
+- **Abstraction** – Used through service classes for business logic.
+- **Collections** – `ArrayList` and `HashMap` are used for data management.
+- **Exception Handling** – Used to handle invalid inputs and errors.
+- **File Handling & Serialization** – Used to save and load application data.
+- **Date-Time API** – Used to manage task deadlines and dates.
 
 ---
 
